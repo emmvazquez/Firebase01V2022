@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "848938277603",
+    "firebase_url": "https://verano2022-34b9b-default-rtdb.firebaseio.com",
+    "project_id": "verano2022-34b9b",
+    "storage_bucket": "verano2022-34b9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848938277603:android:2213cd4fb8752f773243d6",
+        "android_client_info": {
+          "package_name": "com.practica.firebase01v2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848938277603-7stl971rgghj83b0hhm9g0fnqme1mm90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCc9vGQL0cvCnaNYVHGaf4WoE4sVlKv74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848938277603-7stl971rgghj83b0hhm9g0fnqme1mm90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848938277603:android:bd80600f03fbe7433243d6",
+        "android_client_info": {
+          "package_name": "com.practica.holamundoverano202"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848938277603-7stl971rgghj83b0hhm9g0fnqme1mm90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCc9vGQL0cvCnaNYVHGaf4WoE4sVlKv74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848938277603-7stl971rgghj83b0hhm9g0fnqme1mm90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848938277603:android:8c6c33bb44c434bc3243d6",
+        "android_client_info": {
+          "package_name": "com.practica.holamundoverano2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848938277603-7stl971rgghj83b0hhm9g0fnqme1mm90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCc9vGQL0cvCnaNYVHGaf4WoE4sVlKv74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848938277603-7stl971rgghj83b0hhm9g0fnqme1mm90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
